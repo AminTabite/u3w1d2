@@ -6,7 +6,7 @@ import Navbar from "react-bootstrap/Navbar";
 
 const Myfooter = () => {
   return (
-    <Navbar expand="lg" className="bg-body-tertiary ">
+    <Navbar expand="lg" bg="dark" variant="dark">
       <Container fluid>
         <Navbar.Brand href="#">EpiBooks</Navbar.Brand>
         <Navbar.Toggle aria-controls="navbarScroll" />

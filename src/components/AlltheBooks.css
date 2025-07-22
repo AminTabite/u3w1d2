@@ -1,0 +1,9 @@
+.img-fluid {
+  object-fit: cover;
+  object-position: center;
+  height: 700px;
+}
+
+.Sizecard {
+  height: 100%;
+}
