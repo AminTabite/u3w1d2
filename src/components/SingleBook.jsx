@@ -1,5 +1,5 @@
 import "./AlltheBooks.css";
-
+import { Card } from "react-bootstrap";
 const SingleBook = (props) => {
   return (
     <Card className="Sizecard">
