@@ -1,6 +1,8 @@
 import Generelibri from "../assets/horror.json";
 import "./AlltheBooks.css";
 
+console.log(Generelibri);
+
 import { Container, Row, Col, Card, Button } from "react-bootstrap";
 
 const Allthebooks = () => {
